@@ -1,0 +1,8 @@
+{
+    "description": "5 days back data is purged",
+    "frequency": 86400,
+    "name": "PurgeThunderboardCollectionTimer",
+    "repeats": -1,
+    "service_name": "PurgeThunderboardCollection",
+    "start_time": "2017-10-21T04:00:31Z"
+}
