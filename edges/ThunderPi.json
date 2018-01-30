@@ -1,0 +1,13 @@
+{
+    "description": "The edge device that connects to the Thunderboard",
+    "last_seen_version": "dev",
+    "location": null,
+    "mac_address": null,
+    "name": "ThunderPi",
+    "policy_name": null,
+    "resolver_func": null,
+    "sync_edge_tables": null,
+    "system_key": "88aeb19d0bc2ad9dc199c7a59550",
+    "system_secret": "88AEB19D0BACD0B982839ADEFE30",
+    "token": "Y92U477Of52f84OLf9C2v6pwPLP"
+}
