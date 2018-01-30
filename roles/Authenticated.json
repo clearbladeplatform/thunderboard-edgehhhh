@@ -1,0 +1,254 @@
+{
+    "Description": "Default role that is applied to all authenticated users",
+    "ID": "Authenticated",
+    "Name": "Authenticated",
+    "Permissions": {
+        "CodeServices": [
+            {
+                "Level": 1,
+                "Name": "AddNewBLEDevice",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "AddThunderboardDevice",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "CreateCollection",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "EdgePlatformMessageProcessor",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "FindMessageQueuebyDeviceId",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "PortalControlThunderboard",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "PortalTemperature",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "ProcessEnvironment",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "PurgeQueue",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "SendEdgeMessage",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "SendPlatformMessage",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "ThunderboardMessageProcessor",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "TurnOnReadEnvironment",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "TurnOnReadMotion",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "checkDeviceConnection",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "lightHistory",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "listDevices",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "pressureHistory",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "updateDevice",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            }
+        ],
+        "Collections": [
+            {
+                "Columns": [],
+                "ID": "8eaeb19d0be4d19ea3b3c6d1c0ac01",
+                "Items": [],
+                "Level": 0,
+                "Name": "8eaeb19d0be4d19ea3b3c6d1c0ac01"
+            },
+            {
+                "Columns": [],
+                "ID": "be96879e0bf0d0c9b9d9e68eb64f",
+                "Items": [],
+                "Level": 1,
+                "Name": "ThunderboardHistorian"
+            },
+            {
+                "Columns": [],
+                "ID": "bea9879e0b84a0d7fdadb5b0b7e701",
+                "Items": [],
+                "Level": 15,
+                "Name": "ThunderboardHistorian2"
+            },
+            {
+                "Columns": [],
+                "ID": "c093b0a60bace2c9e2b0cc90be5c",
+                "Items": [],
+                "Level": 1,
+                "Name": "ThunderboardHistorian3"
+            },
+            {
+                "Columns": [],
+                "ID": "a287b2a60bf692cee1d5a0e982b601",
+                "Items": [],
+                "Level": 1,
+                "Name": "a287b2a60bf692cee1d5a0e982b601"
+            },
+            {
+                "Columns": [],
+                "ID": "a8d6b2a60b809bf4b4a0e1ff9335",
+                "Items": [],
+                "Level": 1,
+                "Name": "a8d6b2a60b809bf4b4a0e1ff9335"
+            },
+            {
+                "Columns": [],
+                "ID": "aefe869e0bd49097d5d1a7b2e91f",
+                "Items": [],
+                "Level": 15,
+                "Name": "aefe869e0bd49097d5d1a7b2e91f"
+            },
+            {
+                "Columns": [],
+                "ID": "b4a6879e0bfa8df9e7a58993f2ec01",
+                "Items": [],
+                "Level": 15,
+                "Name": "b4a6879e0bfa8df9e7a58993f2ec01"
+            },
+            {
+                "Columns": [],
+                "ID": "c2c3a09c0bdcbbb3ecaee0c3f76b",
+                "Items": [],
+                "Level": 0,
+                "Name": "c2c3a09c0bdcbbb3ecaee0c3f76b"
+            },
+            {
+                "Columns": [],
+                "ID": "c8eb949d0bfa85c7a08587f4d134",
+                "Items": [],
+                "Level": 0,
+                "Name": "c8eb949d0bfa85c7a08587f4d134"
+            },
+            {
+                "Columns": [],
+                "ID": "d086b2a60bca96fdaafbaad1c80c",
+                "Items": [],
+                "Level": 1,
+                "Name": "d086b2a60bca96fdaafbaad1c80c"
+            }
+        ],
+        "DevicesList": {
+            "Level": 7
+        },
+        "MsgHistory": {
+            "Level": 15
+        },
+        "Portals": [
+            {
+                "Level": 0,
+                "Name": "ThunderBoard",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 5,
+                "Name": "Foo",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 15,
+                "Name": "ThunderBlade New",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 15,
+                "Name": "Thunderboard",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 0,
+                "Name": "Test",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 0,
+                "Name": "ThunderBlade",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 0,
+                "Name": "ThunderBlade 2",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 0,
+                "Name": "ThunderBlade New 2",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 0,
+                "Name": "ThunderBorard",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 0,
+                "Name": "test",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 15,
+                "Name": "datepicker",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            }
+        ],
+        "Push": {
+            "Level": 0
+        },
+        "SystemServices": null,
+        "Topics": [],
+        "UsersList": {
+            "Level": 0
+        }
+    }
+}
