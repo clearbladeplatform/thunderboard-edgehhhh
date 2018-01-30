@@ -1,0 +1,9 @@
+{
+    "auth": true,
+    "description": "This is a copy of the Thunderboard system with the Edge in the middle",
+    "messaging_url": "platform.clearblade.com:1883",
+    "name": "Thunderboard Edge",
+    "platform_url": "https://staging.clearblade.com",
+    "system_key": "88aeb19d0bc2ad9dc199c7a59550",
+    "system_secret": "88AEB19D0BACD0B982839ADEFE30"
+}
