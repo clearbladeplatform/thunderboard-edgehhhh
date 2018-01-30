@@ -1,0 +1,13 @@
+{
+    "description": "My Macbook",
+    "last_seen_version": "3.16-rc4",
+    "location": null,
+    "mac_address": null,
+    "name": "ThunderMac",
+    "policy_name": null,
+    "resolver_func": null,
+    "sync_edge_tables": null,
+    "system_key": "88aeb19d0bc2ad9dc199c7a59550",
+    "system_secret": "88AEB19D0BACD0B982839ADEFE30",
+    "token": "0KM457Ps1ef70Bd982410b481D94utu"
+}
