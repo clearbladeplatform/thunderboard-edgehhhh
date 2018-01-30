@@ -1,0 +1,86 @@
+{
+    "Description": "",
+    "ID": "8caeb19d0b88fdfad49f818d8a8a01",
+    "Name": "PortalDemo",
+    "Permissions": {
+        "CodeServices": [
+            {
+                "Level": 1,
+                "Name": "FindMessageQueuebyDeviceId",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "PortalControlThunderboard",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "PortalTemperature",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "TurnOnReadEnvironment",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "TurnOnReadMotion",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "lightHistory",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "listDevices",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "pressureHistory",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "updateDevice",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            }
+        ],
+        "Collections": [],
+        "DevicesList": {
+            "Level": 5
+        },
+        "MsgHistory": {
+            "Level": 5
+        },
+        "Portals": [
+            {
+                "Level": 0,
+                "Name": "ThunderBoard",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "ThunderBorard",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "ThunderBlade New",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            }
+        ],
+        "Push": {
+            "Level": 0
+        },
+        "SystemServices": null,
+        "Topics": [],
+        "UsersList": {
+            "Level": 0
+        }
+    }
+}
