@@ -1,0 +1,176 @@
+{
+    "Description": "Default role that is applied to a user who has rights to everything",
+    "ID": "Administrator",
+    "Name": "Administrator",
+    "Permissions": {
+        "CodeServices": [
+            {
+                "Level": 1,
+                "Name": "CreateCollection",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "PortalTemperature",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "TurnOnReadMotion",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "capturedTemps",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "listDevices",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "pressureHistory",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 1,
+                "Name": "updateDevice",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            }
+        ],
+        "Collections": [
+            {
+                "Columns": [],
+                "ID": "8eaeb19d0be4d19ea3b3c6d1c0ac01",
+                "Items": [],
+                "Level": 15,
+                "Name": "8eaeb19d0be4d19ea3b3c6d1c0ac01"
+            },
+            {
+                "Columns": [],
+                "ID": "94aeb19d0b8687b7bad68da9ad7b",
+                "Items": [],
+                "Level": 0,
+                "Name": "94aeb19d0b8687b7bad68da9ad7b"
+            },
+            {
+                "Columns": [],
+                "ID": "be96879e0bf0d0c9b9d9e68eb64f",
+                "Items": [],
+                "Level": 15,
+                "Name": "ThunderboardHistorian"
+            },
+            {
+                "Columns": [],
+                "ID": "c093b0a60bace2c9e2b0cc90be5c",
+                "Items": [],
+                "Level": 15,
+                "Name": "ThunderboardHistorian3"
+            },
+            {
+                "Columns": [],
+                "ID": "a287b2a60bf692cee1d5a0e982b601",
+                "Items": [],
+                "Level": 15,
+                "Name": "a287b2a60bf692cee1d5a0e982b601"
+            },
+            {
+                "Columns": [],
+                "ID": "a8d6b2a60b809bf4b4a0e1ff9335",
+                "Items": [],
+                "Level": 15,
+                "Name": "a8d6b2a60b809bf4b4a0e1ff9335"
+            },
+            {
+                "Columns": [],
+                "ID": "bccfe2980be281e590bec18f860b",
+                "Items": [],
+                "Level": 0,
+                "Name": "bccfe2980be281e590bec18f860b"
+            },
+            {
+                "Columns": [],
+                "ID": "c2cfe2980bfa9ba6e9f8849b8926",
+                "Items": [],
+                "Level": 0,
+                "Name": "c2cfe2980bfa9ba6e9f8849b8926"
+            },
+            {
+                "Columns": [],
+                "ID": "c8eb949d0bfa85c7a08587f4d134",
+                "Items": [],
+                "Level": 0,
+                "Name": "c8eb949d0bfa85c7a08587f4d134"
+            },
+            {
+                "Columns": [],
+                "ID": "cacfe2980bbc94e9c18f8399dde901",
+                "Items": [],
+                "Level": 0,
+                "Name": "cacfe2980bbc94e9c18f8399dde901"
+            },
+            {
+                "Columns": [],
+                "ID": "cecfe2980bc4cfc3c4f7e6a4c2ca01",
+                "Items": [],
+                "Level": 0,
+                "Name": "cecfe2980bc4cfc3c4f7e6a4c2ca01"
+            },
+            {
+                "Columns": [],
+                "ID": "d086b2a60bca96fdaafbaad1c80c",
+                "Items": [],
+                "Level": 15,
+                "Name": "d086b2a60bca96fdaafbaad1c80c"
+            }
+        ],
+        "DevicesList": {
+            "Level": 15
+        },
+        "MsgHistory": {
+            "Level": 15
+        },
+        "Portals": [
+            {
+                "Level": 15,
+                "Name": "Foo",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 15,
+                "Name": "ThunderBoard",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 15,
+                "Name": "Thunderboard",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 5,
+                "Name": "ThunderBlade New",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 15,
+                "Name": "ThunderBorard",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            },
+            {
+                "Level": 15,
+                "Name": "datepicker",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            }
+        ],
+        "Push": {
+            "Level": 0
+        },
+        "SystemServices": null,
+        "Topics": [],
+        "UsersList": {
+            "Level": 15
+        }
+    }
+}
