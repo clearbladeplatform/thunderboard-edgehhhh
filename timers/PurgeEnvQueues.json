@@ -1,0 +1,8 @@
+{
+    "description": "purges _platform queues",
+    "frequency": 10800,
+    "name": "PurgeEnvQueues",
+    "repeats": -1,
+    "service_name": "PurgeEnv",
+    "start_time": "2017-10-20T16:00:43Z"
+}
