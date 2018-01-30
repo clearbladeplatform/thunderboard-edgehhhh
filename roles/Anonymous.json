@@ -1,0 +1,72 @@
+{
+    "Description": "Default role that is applied to all unauthenticated users",
+    "ID": "Anonymous",
+    "Name": "Anonymous",
+    "Permissions": {
+        "CodeServices": [
+            {
+                "Level": 1,
+                "Name": "updateDevice",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            }
+        ],
+        "Collections": [
+            {
+                "Columns": [],
+                "ID": "be96879e0bf0d0c9b9d9e68eb64f",
+                "Items": [],
+                "Level": 0,
+                "Name": "ThunderboardHistorian"
+            },
+            {
+                "Columns": [],
+                "ID": "c093b0a60bace2c9e2b0cc90be5c",
+                "Items": [],
+                "Level": 0,
+                "Name": "ThunderboardHistorian3"
+            },
+            {
+                "Columns": [],
+                "ID": "a287b2a60bf692cee1d5a0e982b601",
+                "Items": [],
+                "Level": 0,
+                "Name": "a287b2a60bf692cee1d5a0e982b601"
+            },
+            {
+                "Columns": [],
+                "ID": "a8d6b2a60b809bf4b4a0e1ff9335",
+                "Items": [],
+                "Level": 0,
+                "Name": "a8d6b2a60b809bf4b4a0e1ff9335"
+            },
+            {
+                "Columns": [],
+                "ID": "d086b2a60bca96fdaafbaad1c80c",
+                "Items": [],
+                "Level": 0,
+                "Name": "d086b2a60bca96fdaafbaad1c80c"
+            }
+        ],
+        "DevicesList": {
+            "Level": 0
+        },
+        "MsgHistory": {
+            "Level": 0
+        },
+        "Portals": [
+            {
+                "Level": 5,
+                "Name": "ThunderBlade New",
+                "SystemKey": "88aeb19d0bc2ad9dc199c7a59550"
+            }
+        ],
+        "Push": {
+            "Level": 0
+        },
+        "SystemServices": null,
+        "Topics": [],
+        "UsersList": {
+            "Level": 0
+        }
+    }
+}
